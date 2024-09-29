@@ -1,0 +1,24 @@
+body, html{
+    height: 100%;
+    background: rgb(100,149,237);
+background: linear-gradient(0deg, rgba(100,149,237,1) 0%, rgba(176,224,230,1) 90%, rgba(224,255,255,1) 100%);
+}  
+
+.container{
+    max-width: 40%;
+    margin-top: -300px;
+}
+
+.form-container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-box{
+    background-color: rgba(31, 31, 31, 0.911);
+    width: 800px;
+    padding: 30px;
+    border-radius: 10px;
+}
